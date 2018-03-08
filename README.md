@@ -1,5 +1,5 @@
 # Tarea Corta
-
+```
 Instituto Tecnológico de Costa Rica
 
 Área de Ingeniería en Computadores
@@ -7,6 +7,7 @@ Instituto Tecnológico de Costa Rica
 Algoritmos y Estructuras de Datos II (CE 2103)
 
 Primer Semestre 2018
+```
 
 **Objetivo General**
 + Aplicar el concepto de gestión de memoria desde la perspectiva de la codificación del
