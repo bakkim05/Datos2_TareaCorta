@@ -1,8 +1,11 @@
 # Tarea Corta
 
 Instituto Tecnológico de Costa Rica
+
 Área de Ingeniería en Computadores
+
 Algoritmos y Estructuras de Datos II (CE 2103)
+
 Primer Semestre 2018
 
 **Objetivo General**
